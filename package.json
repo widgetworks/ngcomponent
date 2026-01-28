@@ -38,26 +38,9 @@
   "homepage": "https://github.com/coatue-oss/ngcomponent#readme",
   "devDependencies": {
     "@types/angular-mocks": "^1.5.11",
-    "@types/jasmine": "^2.8.6",
     "angular-resource": "^1.6.9",
-    "browserify": "^16.0.0",
-    "electron": "^1.8.2",
-    "jasmine": "^3.0.0",
-    "karma": "^2.0.0",
-    "karma-browserify": "^5.2.0",
-    "karma-electron-launcher": "^0.2.0",
-    "karma-jasmine": "^1.1.1",
-    "karma-mocha-reporter": "^2.2.5",
-    "karma-source-map-support": "^1.2.0",
     "ngimport": "^1.0.0",
-    "rollupify": "^0.4.0",
-    "tslint": "^5.9.1",
-    "tslint-no-circular-imports": "^0.2.1",
-    "typescript": "^2.7.1",
-    "wallaby-webpack": "^3.9.4",
-    "watchify": "^3.10.0",
-    "webpack": "^3.10.0",
-    "xvfb-maybe": "^0.2.1"
+    "typescript": "^2.7.1"
   },
   "dependencies": {
     "@types/angular": "^1.6.42",
